@@ -1,0 +1,3 @@
+pandas
+msal
+cognite-sdk==4.11.3
