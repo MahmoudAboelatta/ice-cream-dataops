@@ -1,5 +1,4 @@
 # ice-cream-dataops
 Cognite Data Fusion Bootcamp
 
-
-Test tes
+From Test to Prod
